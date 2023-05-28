@@ -1,0 +1,16 @@
+{
+  "name": "api-",
+  "version": "1.0.0",
+  "description": "basketball db",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Sai",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongodb": "^5.5.0"
+  }
+}
